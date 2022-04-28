@@ -1,2 +1,2 @@
-# data-visualization-repo
- Data Visualization using Seaborn
+# My-data-analytics-repo
+ Documenting my data analytics journey
